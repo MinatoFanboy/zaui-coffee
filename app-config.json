@@ -1,0 +1,31 @@
+{
+  "app": {
+    "actionBarHidden": true,
+    "headerColor": "",
+    "hideAndroidBottomNavigationBar": false,
+    "hideIOSSafeAreaBottom": false,
+    "leftButton": "none",
+    "selfControlLoading": false,
+    "statusBar": "transparent",
+    "statusBarColor": "#FFFFFF",
+    "textColor": "#141515",
+    "title": "Du lịch Đồ Sơn"
+  },
+  "debug": false,
+  "listCSS": [],
+  "listSyncJS": [],
+  "listAsyncJS": [],
+  "page": [
+    "/user",
+    "/form",
+    "/dynamic-route",
+    "/about",
+    "/404"
+  ],
+  "template": {
+    "primaryColor": "#DD7E43",
+    "prefixCurrencySymbol": false,
+    "currencySymbol": "đ",
+    "headerLogo": ""
+  }
+}

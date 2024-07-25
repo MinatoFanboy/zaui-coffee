@@ -1,0 +1,18 @@
+{
+  "cwd": "${your_directory}/Documents/Workspaces/MiniApp/my-app",
+  "newProject": true,
+  "name": "My App",
+  "package": "zmp-ui",
+  "framework": "react-typescript",
+  "cssPreProcessor": "scss",
+  "template": "single-view",
+  "includeTailwind": true,
+  "theming": {
+    "color": "#007aff",
+    "darkTheme": false,
+    "fillBars": false,
+    "iconFonts": true,
+    "useUiKits": true
+  },
+  "stateManagement": "recoil"
+}
